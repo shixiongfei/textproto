@@ -1,0 +1,3 @@
+[submodule "sstr"]
+	path = sstr
+	url = https://github.com/shixiongfei/sstr.git
